@@ -11,7 +11,7 @@
         <br/>
 
         
-        ![image](https://github.com/JIESUSU/JIESUSU/blob/main/%E7%85%A7%E7%89%87/43af4faf200625acd87e4817f332db4b.png)
+        <img src="https://github.com/JIESUSU/JIESUSU/blob/main/%E7%85%A7%E7%89%87/43af4faf200625acd87e4817f332db4b.png" width="200"/>
         <p>四種口味
             現貨！
             草莓/ 茶凍 /巧克力
